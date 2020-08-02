@@ -1,0 +1,79 @@
+nav{
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.b{
+    padding-right:40px;
+    color:black;
+    font-size: 1.5rem;
+    
+}
+.b:hover{
+    color:white;
+    cursor:pointer;
+    border:3px solid white;
+    background-color: black;
+    border-radius:20px;
+    padding-left:40px;
+    
+}
+.c{
+    color:black;
+    font-size: 1.5rem;
+}
+.c:hover{
+    color:white;
+    cursor:pointer;
+    border:3px solid white;
+    background-color: black;
+    border-radius:20px;
+    padding-left:40px;
+    
+    
+}
+.d{
+    color:black;
+    padding-right:60px;
+    font-size: 1.5rem;
+}
+.d:hover{
+    color:white;
+    cursor:pointer;
+    border:3px solid white;
+    background-color: black;
+    border-radius:20px;
+    padding-left:40px;
+    
+}
+
+.nav-sidebar{
+    margin:40px -20px 20px 20px;
+    background-color:honeydew;
+    border-radius: 20px;
+}
+.nav-sidebar li {
+    padding:20px 20px;
+
+}
+.nav-sidebar li a{
+    color:brown;
+    font-size: 1.4rem;
+    text-decoration: none;
+    font-family:font-family: 'Nanum Gothic', sans-serif;
+}
+.main{
+    margin-top:30px;
+    background-color: lightgray;
+    padding:20px;
+}
+.placeholders{
+    margin-top:10px;
+    margin-bottom:30px;
+}
+.placeholder{
+    margin-bottom:20px;
+    text-align: center;
+}
+.placeholder img{
+    display:inline;
+    border-radius: 20px;
+    }
